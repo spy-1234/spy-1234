@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Janmejai Singh (@spy-1234)
+# 👋 Hi, I'm Janmejai Singh
 
 > *"Committed and desire for emerging technology."*
 > 🎯 Focusing towards dream
