@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an **Electronics and Communication Engineering** student at **IET Lucknow**, passionate about building things with code. I enjoy working on full-stack web development, blockchain, and data science as hobby projects.
+I'm an **Electronics and Communication Engineering** graduated at **IET Lucknow**, passionate about building things with code. I enjoy working on full-stack web development, blockchain, and data science as hobby projects.
 
 - 🔭 Currently working on the **MERN Stack**
 - 🌱 Currently learning **Data Science with Python**
