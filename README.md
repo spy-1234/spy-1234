@@ -20,11 +20,11 @@ I'm an **Electronics and Communication Engineering** graduated at **IET Lucknow*
 
 | Metric | Count |
 |---|---|
-| 📁 Total Repositories | **54** |
+| 📁 Total Repositories | **118** |
 | ⭐ Stars Received | **1+** |
-| 🌟 Stars Given | **49** |
+| 🌟 Stars Given | **91** |
 | 👥 Followers | **3** |
-| 👣 Following | **11** |
+| 👣 Following | **15** |
 | 🏆 Achievements | YOLO, Pull Shark |
 
 ---
